@@ -1,4 +1,3 @@
-## Driessen's Git Workflow Tamplate
+## TravisCI Auto Deploy On Push To Master
 
-This github repository is example for implementing the workflow according to Driessen.
-For more information you can read the article by Vincent Driessen [here](http://nvie.com/posts/a-successful-git-branching-model/).
+Testing auto deploy using Travic CI. using DriessenGitModle the master is the production - when code pushed into the master Travice deploy it to the server automatically[here](http://nvie.com/posts/a-successful-git-branching-model/).
