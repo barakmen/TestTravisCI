@@ -1,3 +1,68 @@
+commit 667f9728329627e796ce5080a58dfdf6a41c6870
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 20:33:07 2018 +0300
+
+    fix the readme
+
+commit 88aded4d1e8ded9ac535371832964d4e69d84424
+Merge: 9f39f4b f5d276f
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 20:30:24 2018 +0300
+
+    Merge branch 'master' into develop
+
+commit f5d276f5df96492fadb0a28936451ba983fce627
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 20:29:26 2018 +0300
+
+    set the readme
+
+commit 9f39f4b83e180e45d6e1c515986506250ff641d6
+Merge: 8440211 e233a50
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 19:45:53 2018 +0300
+
+    Merge branch 'hotfix-1.5.1' into develop
+
+commit 02b2122bff29dfada22df0d84df5e5a0a5363f19
+Merge: 9d39585 e233a50
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 19:44:28 2018 +0300
+
+    Merge branch 'hotfix-1.5.1'
+
+commit e233a507cb322570513b5f4f3279f9bae0b655b3
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 19:44:07 2018 +0300
+
+    Fixed severe production problem
+
+commit 828d24a8b9ba4cfd8125cd06feea2111b83daf5c
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 19:39:25 2018 +0300
+
+    fixing the critical bug
+
+commit 84402118159e72e34ae34603713361931122309a
+Merge: d71fdb9 0642bac
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 19:24:30 2018 +0300
+
+    Merge branch 'release-1.5' into develop
+
+commit 9d39585ef2b217f8fb0ee62cb53b6b93e5fab395
+Merge: 3b79e15 0642bac
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 19:23:13 2018 +0300
+
+    Merge branch 'release-1.5'
+
+commit 0642bac9ff3301f435608829842a29266532c84c
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 19:22:47 2018 +0300
+
+    Bumped version number to 1.5
+
 commit d71fdb9c442011399313de64a38e6c5e75b4ea86
 Merge: 2c2d7b4 8e02cd7
 Author: barak menachem <barakmen@post.bgu.ac.il>
@@ -22,6 +87,13 @@ Author: barak menachem <barakmen@post.bgu.ac.il>
 Date:   Tue May 8 19:10:19 2018 +0300
 
     start working on fourth feature
+
+commit 3b79e1508c3fe48283c78b307e9f66d170b87d58
+Merge: bd11d1e f615778
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 19:01:45 2018 +0300
+
+    Merge branch 'release-1.0'
 
 commit 2c2d7b4ce2d0b718649782bafada06108375c27f
 Merge: 06845e8 f615778
